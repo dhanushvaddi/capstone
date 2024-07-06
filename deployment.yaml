@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: dhanushvaddi/capstoneP2
+        image: dhanushvaddi/capstonep2
         ports:
         - containerPort: 80
